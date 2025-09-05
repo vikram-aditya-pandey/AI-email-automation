@@ -42,7 +42,7 @@ The goal is to improve efficiency, response quality, and customer satisfaction w
     "email": "your-email@gmail.com",
     "password": "your-app-password",
     "imap_server": "imap.gmail.com"
-}
+   }
 5. **Run the project**
     ````bash
     python -m app.automate_pipeline
